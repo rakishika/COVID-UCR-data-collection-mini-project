@@ -1,0 +1,6 @@
+# COVID-UCR-data-collection-mini-project
+The information we currently have is student’s general information (age, sex, what class they are taking). We also have information on their general mental wellness and academic performance. Some of these questions cover GPA, how active the students’ lives are, and how they would rate their mental health and its changes over the pandemic.
+
+We would like to know the correlation between a well balanced life and general student mental health. The pandemic was key to realize how important mental health is and how important it is to maintain the work-life balance (sleep, extracurriculars, etc). Specifically, we would consider the mood of students in the previous quarter and whether or not they are mentally present in the classes they are currently taking.
+
+Our first hypothesis is that current GPA and mood from the previous quarter are dependent on each other. Our second hypothesis is that Grades and Work status are dependent of each other. Our third and final hypothesis is that age and the number of units taken this quarter are independent of each other. For the first 2 hypotheses we will test it using the chi square test of independence and for the 3rd hypothesis we will test using linear regression.
